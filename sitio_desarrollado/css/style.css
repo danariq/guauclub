@@ -8538,7 +8538,7 @@ h1, h2, h3, h4, h5,
       .services .media-body .btn-custom span {
         color: #fff; }
   .services:hover, .services.active {
-    background: #18c3af; }
+    background: #fff; }
     .services:hover .icon, .services.active .icon {
       background: #fff; }
     .services:hover .media-body, .services.active .media-body {
